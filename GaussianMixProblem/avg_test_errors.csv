@@ -1,0 +1,26 @@
+File_name,Method,Avg Test Error
+data_1_2.csv,WLS,434.2666512
+data_1_2.csv,Huber,248.8000356
+data_1_2.csv,OLS,248.0413751
+data_1_2.csv,MLE,248.0426125
+data_1_2.csv,Tukey,256.1307012
+data_1_1.csv,WLS,28.61341544
+data_1_1.csv,Huber,28.44036811
+data_1_1.csv,OLS,28.56008312
+data_1_1.csv,MLE,28.56007315
+data_1_1.csv,Tukey,28.40309323
+data_1_4.csv,WLS,38.52520306
+data_1_4.csv,Huber,27.04951363
+data_1_4.csv,OLS,27.04651328
+data_1_4.csv,MLE,27.04652287
+data_1_4.csv,Tukey,27.64791422
+data_1_3.csv,WLS,425.4783313
+data_1_3.csv,Huber,324.0628407
+data_1_3.csv,OLS,324.9863204
+data_1_3.csv,MLE,324.9852271
+data_1_3.csv,Tukey,335.7084306
+data_1_5.csv,WLS,135.1169991
+data_1_5.csv,Huber,129.5395867
+data_1_5.csv,OLS,129.884353
+data_1_5.csv,MLE,129.8821793
+data_1_5.csv,Tukey,129.7069054
